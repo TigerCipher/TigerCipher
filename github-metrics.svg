@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            772 Commits
+                            773 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    35.5k added, 9.49k removed
+                                    708k added, 540k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="348.4203936283499" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="348.4203936283499" y="0" width="52.36933239123418" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="400.78972601958407" y="0" width="39.03315397214902" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="439.82287999173315" y="0" width="8.205240728476154" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="448.02812072020924" y="0" width="3.9465902251174096" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.9747109453267" y="0" width="3.7774418250419886" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.7521527703687" y="0" width="2.291837355036506" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="458.04399012540523" y="0" width="1.9560098745947936" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.9984317405" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="347.9984317405" y="0" width="52.86315930567657" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="400.86159104617656" y="0" width="38.985778433080895" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="439.84736947925745" y="0" width="8.19528181757255" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="448.04265129683" y="0" width="3.941800147443201" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.9844514442732" y="0" width="3.7728570471148046" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.757308491388" y="0" width="2.2890556933181423" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="458.0463641847062" y="0" width="1.953635815293881" height="8" fill="#000080"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -294,6 +294,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">TigerCipher/Lotus</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3858740</div>
+                                        <div class="message">Actually modifed gitattributes and fixed some minor editor bugs</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -396,34 +416,12 @@ Added the config file for the VsCommitizen Visual Studio extension. Mostly so th
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">BlueMoonDevelopment/expenseman-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">categories</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f0cbef6</div>
-                                        <div class="message">docs: Added documentation for category api
-
-Note that this also includes changing the status sent when no category type was provided when creating a new category to 401 from 400</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2023, 22:18:41 (timezone America/Chicago) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Jan 2023, 23:13:58 (timezone America/Chicago) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
